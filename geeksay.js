@@ -22,6 +22,7 @@ var translations = {
     "undo": "ctrl+z",
     "redo": "ctrl+y",
     "search": "ctrl+f",
+    "search": "f3",
     "find": "ctrl+f",
     "replace": "ctrl+r",
     "print": "ctrl+p",
@@ -37,6 +38,7 @@ var translations = {
     "hey": "ping",
     "command": "cmd",
     "forget": "ctrl+z",
+    "remember": "ctrl+y",
     "world": "0.0.0.0/0",
     "want": "require",
     "name": "alias",
@@ -112,7 +114,8 @@ var quotes = [
     "he wore black and i wore white",
     "bang bang my baby shot me down",
     "Today is the first day of the rest of your lifetime",
-    "i need to sleep"
+    "i need to sleep",
+    "Subscribe to Pewdiepie"
 ]
 
 function isNumeric(num){
